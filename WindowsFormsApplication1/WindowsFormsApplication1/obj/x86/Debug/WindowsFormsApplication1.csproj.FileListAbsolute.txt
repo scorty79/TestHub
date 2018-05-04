@@ -5,3 +5,4 @@ D:\Lavoro\Programmi\GitHub\WindowsFormsApplication1\WindowsFormsApplication1\obj
 D:\Lavoro\Programmi\GitHub\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\Lavoro\Programmi\GitHub\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 D:\Lavoro\Programmi\GitHub\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Lavoro\Programmi\GitHub\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
